@@ -1,0 +1,41 @@
+destination,run,share_within_20,residents_within_20,median_min,share_within_15,share_within_30,share_not_reached
+Downtown Miami (Government Center),"By car, at the speed limit, no traffic",0.408,1103403,22.1,0.242,0.801,0.006
+Downtown Miami (Government Center),"By car, morning rush hour",0.152,410219,38.5,0.084,0.306,0.006
+Downtown Miami (Government Center),"By car, evening rush hour",0.13,350026,42.7,0.069,0.262,0.006
+Downtown Miami (Government Center),"By car, typical speeds (older model)",0.653,1764237,17.3,0.398,0.915,0.006
+Downtown Miami (Government Center),"By public transport, arriving 8 to 9 am",0.046,123545,72,0.026,0.109,0.082
+The nearest beach,"By car, at the speed limit, no traffic",0.516,1392964,19.7,0.343,0.914,0.006
+The nearest beach,"By car, morning rush hour",0.233,628863,34,0.138,0.419,0.006
+The nearest beach,"By car, evening rush hour",0.198,535049,37,0.125,0.37,0.006
+The nearest beach,"By car, typical speeds (older model)",0.74,1999973,15.3,0.491,0.993,0.006
+The nearest beach,"By public transport, arriving 8 to 9 am",0.047,126104,83,0.028,0.073,0.109
+Miami International Airport,"By car, at the speed limit, no traffic",0.437,1181628,21.5,0.224,0.846,0.006
+Miami International Airport,"By car, morning rush hour",0.093,250240,37.3,0.02,0.318,0.006
+Miami International Airport,"By car, evening rush hour",0.066,179327,41.3,0.011,0.255,0.006
+Miami International Airport,"By car, typical speeds (older model)",0.653,1763553,17,0.4,0.918,0.006
+Miami International Airport,"By public transport, arriving 8 to 9 am",0.0,999,86,0.0,0.013,0.161
+The nearest hospital emergency department,"By car, at the speed limit, no traffic",0.994,2685093,6.8,0.976,0.994,0.006
+The nearest hospital emergency department,"By car, morning rush hour",0.909,2455186,11.6,0.737,0.988,0.006
+The nearest hospital emergency department,"By car, evening rush hour",0.863,2331850,12.6,0.671,0.983,0.006
+The nearest hospital emergency department,"By car, typical speeds (older model)",0.994,2686174,4.5,0.993,0.994,0.006
+The nearest hospital emergency department,"By public transport, arriving 8 to 9 am",0.108,291883,39,0.05,0.299,0.023
+The nearest university campus,"By car, at the speed limit, no traffic",0.878,2373184,10.3,0.772,0.967,0.006
+The nearest university campus,"By car, morning rush hour",0.596,1609490,17.9,0.362,0.824,0.006
+The nearest university campus,"By car, evening rush hour",0.53,1431541,19.5,0.307,0.791,0.006
+The nearest university campus,"By car, typical speeds (older model)",0.917,2478456,7.3,0.855,0.987,0.006
+The nearest university campus,"By public transport, arriving 8 to 9 am",0.038,102651,58,0.016,0.136,0.057
+loanDepot park,"By car, at the speed limit, no traffic",0.451,1217904,20.9,0.251,0.853,0.006
+loanDepot park,"By car, morning rush hour",0.167,451329,36.2,0.101,0.336,0.006
+loanDepot park,"By car, evening rush hour",0.147,396979,40,0.087,0.282,0.006
+loanDepot park,"By car, typical speeds (older model)",0.659,1780005,17,0.402,0.915,0.006
+loanDepot park,"By public transport, arriving 8 to 9 am",0.015,41004,90,0.007,0.042,0.153
+The Everglades (Shark Valley or the Coe Visitor Center),"By car, at the speed limit, no traffic",0.021,55477,46.2,0.006,0.1,0.006
+The Everglades (Shark Valley or the Coe Visitor Center),"By car, morning rush hour",0.002,5079,80.3,0.0,0.011,0.006
+The Everglades (Shark Valley or the Coe Visitor Center),"By car, evening rush hour",0.002,4850,87.6,0.0,0.009,0.006
+The Everglades (Shark Valley or the Coe Visitor Center),"By car, typical speeds (older model)",0.031,84838,42.2,0.007,0.141,0.006
+The Everglades (Shark Valley or the Coe Visitor Center),"By public transport, arriving 8 to 9 am",0.0,0,,0.0,0.0,0.998
+The nearest big shopping centre,"By car, at the speed limit, no traffic",0.994,2684297,8.6,0.968,0.994,0.006
+The nearest big shopping centre,"By car, morning rush hour",0.805,2175984,14.7,0.519,0.991,0.006
+The nearest big shopping centre,"By car, evening rush hour",0.723,1953477,15.9,0.452,0.984,0.006
+The nearest big shopping centre,"By car, typical speeds (older model)",0.994,2686148,6.1,0.992,0.994,0.006
+The nearest big shopping centre,"By public transport, arriving 8 to 9 am",0.103,278019,43,0.056,0.26,0.021
