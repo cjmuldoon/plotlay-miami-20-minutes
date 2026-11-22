@@ -1,5 +1,7 @@
 # How far does 20 minutes get you in Miami?
 
+![59% have at least 4 of the 8 places within 20 min, by car at the speed limit with no traffic](images/miami-20-minutes-poster.jpg)
+
 For every resident of Miami-Dade County, Florida (2,701,767 people in 25,813 Census blocks with
 people), the trip to eight everyday places: Downtown, the nearest beach, Miami International Airport, the nearest
 hospital emergency department, the nearest university campus, the ballpark, the Everglades and the nearest big mall.
@@ -133,9 +135,23 @@ Then `node --max-old-space-size=12288 pipeline/scripts/run.mjs <plotlay engine>`
 - TomTom Traffic Index 2025, Miami (https://www.tomtom.com/traffic-index/miami-traffic/): the figures are cited, not redistributed.
 - Miami-Dade Transit GTFS: fetched by `scripts/get_gtfs.sh`, not redistributed.
 
+## Pictures
+
+`images/` holds stills from the showcase video: the opener, a frame of the roads lighting up from downtown at the
+speed limit (Plotlay's engine over Plotlay's Ink base map), and the end card.
+
+![The roads lighting up from downtown at the speed limit](images/miami-20-minutes-roads.jpg)
+
+- Lettering: Lilita One by Juan Montoreano, SIL Open Font Licence 1.1 (https://fonts.google.com/specimen/Lilita+One),
+  filled, outlined and given a drop shadow for the 1980s comic-poster look. The charts use Righteous by Astigmatic,
+  SIL Open Font Licence 1.1.
+- Illustrations: original artwork made for this showcase. With the other pictures, CC BY 4.0, crediting Plotlay and
+  OpenStreetMap contributors where a map is shown.
+
 ## Licence
 
 - **Code** (`pipeline/`, `scripts/`, `python/`): MIT, see `LICENSE`.
+- **Pictures** (`images/`): CC BY 4.0, see Pictures above.
 - **Data** (`data/`): the minutes, the beach and mall points and everything else made from OpenStreetMap are a derived
   database under the Open Database License 1.0, see `LICENSE-DATA`. If you publish a database made from them, offer it
   under the same licence and credit OpenStreetMap contributors. The Census and CMS columns are public domain.
